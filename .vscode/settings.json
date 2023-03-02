@@ -1,8 +1,67 @@
 {
-  "workbench.colorTheme": "Default Dark+",
-  "workbench.preferredDarkColorTheme": "Default Dark+",
-  "task.allowAutomaticTasks": "on",
+  "editor.mouseWheelZoom": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": true,
   "workbench.editorAssociations": {
-    "*.md": "vscode.markdown.preview.editor"
-  }
+    "*.lnk": "default",
+  },
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 20,
+  "editor.fontLigatures": true,
+  "editor.suggestSelection": "first",
+  "explorer.confirmDragAndDrop": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "files.autoSave": "afterDelay",
+  "workbench.startupEditor": "none",
+  "workbench.editor.splitInGroupLayout": "vertical",
+  "git.ignoreMissingGitWarning": true,
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "Operator Mono",
+
+  "workbench.colorCustomizations": {
+    "terminal.background": "#1D2021",
+    "terminal.foreground": "#A89984",
+    "terminalCursor.background": "#A89984",
+    "terminalCursor.foreground": "#A89984",
+    "terminal.ansiBlack": "#1D2021",
+    "terminal.ansiBlue": "#0D6678",
+    "terminal.ansiBrightBlack": "#665C54",
+    "terminal.ansiBrightBlue": "#0D6678",
+    "terminal.ansiBrightCyan": "#8BA59B",
+    "terminal.ansiBrightGreen": "#95C085",
+    "terminal.ansiBrightMagenta": "#8F4673",
+    "terminal.ansiBrightRed": "#FB543F",
+    "terminal.ansiBrightWhite": "#FDF4C1",
+    "terminal.ansiBrightYellow": "#FAC03B",
+    "terminal.ansiCyan": "#8BA59B",
+    "terminal.ansiGreen": "#95C085",
+    "terminal.ansiMagenta": "#8F4673",
+    "terminal.ansiRed": "#FB543F",
+    "terminal.ansiWhite": "#A89984",
+    "terminal.ansiYellow": "#FAC03B"
+  },
+  "terminal.integrated.fontSize": 16,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "[java]": {
+  },
+  "editor.linkedEditing": true,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "php.suggest.basic": false,
+  "php.validate.enable": false,
+  "emmet.excludeLanguages": ["markdown", "php"],
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.accessibilitySupport": "off",
 }
