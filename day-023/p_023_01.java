@@ -6,7 +6,7 @@ class c2 extends c1 {
     int age = 20;
 }
 
-public class d023p01 {
+public class p_023_01 {
     public static void main(String[] args) {
         c1 e = new c1(); // one object of c1 class is being created
         c2 e1 = new c2(); // one object of c2 class is being created

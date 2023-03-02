@@ -1,4 +1,4 @@
-class p01 {
+class p_000_01 {
     public static void main(String[] args) {
         int arr[][] = {
             {1,2},

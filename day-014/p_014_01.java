@@ -1,4 +1,4 @@
-public class p001 {
+public class p_014_01 {
     public static void main(String[] args) {
         String s1 = "PW";
         String s2 = "PW";

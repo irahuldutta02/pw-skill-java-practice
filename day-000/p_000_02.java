@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p02 {
+public class p_000_02 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Input array row : ");

@@ -19,7 +19,7 @@ class c2 extends c1 {
     }
 }
 
-public class d023p02 {
+public class p_023_02 {
     public static void main(String[] args) {
         c1 e1 = new c1(); // c1 er object 
         System.out.println();//----------
