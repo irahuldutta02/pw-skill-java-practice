@@ -1,11 +1,17 @@
 {
+  // pwskill lab 
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "task.allowAutomaticTasks": "on",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  },
+
+  // github@irahuldutta02
   "editor.mouseWheelZoom": true,
   "code-runner.runInTerminal": true,
   "code-runner.saveAllFilesBeforeRun": true,
   "code-runner.saveFileBeforeRun": true,
-  "workbench.editorAssociations": {
-    "*.lnk": "default",
-  },
   "explorer.confirmDelete": false,
   "editor.fontSize": 20,
   "editor.fontLigatures": true,
@@ -55,7 +61,6 @@
   "[java]": {
   },
   "editor.linkedEditing": true,
-  "workbench.colorTheme": "Visual Studio Dark",
   "php.suggest.basic": false,
   "php.validate.enable": false,
   "emmet.excludeLanguages": ["markdown", "php"],
